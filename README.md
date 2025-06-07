@@ -31,5 +31,4 @@ Welcome to the Movie Ticket Booking System! This project is a Java-based console
 ## Authors
 - SriBalaji V
 
-## Project Code
-```java
+
